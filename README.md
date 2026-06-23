@@ -43,19 +43,26 @@ The dataset contains 9,994 retail transactions across multiple regions, customer
 
 ## Visualizations
 
+### Discount vs Profit
+
+![Discount vs Profit](images/discount_vs_profit.png)
+
 ### Profit by Category
 
 ![Profit by Category](images/profit_by_category.png)
 
-### Top 10 Profitable Sub-Categories
-
-![Top 10 Profitable Sub-Categories](images/top10_profitable_subcategories.png)
+### Profit by Sub-Categories
+![Profit by Sub-Categories](images/sales_by_region.png)
 
 ### Sales by Region
 
 ![Sales by Region](images/sales_by_region.png)
 
+### Top 10 Profitable Sub-Categories
 
-### Discount vs Profit
+![Top 10 Profitable Sub-Categories](images/top10_profitable_subcategories.png)
 
-![Discount vs Profit](images/discount_vs_profit.png)
+
+
+
+
