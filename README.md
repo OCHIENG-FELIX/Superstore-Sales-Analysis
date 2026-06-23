@@ -56,7 +56,7 @@ The dataset contains 9,994 retail transactions across multiple regions, customer
 
 ### Sales by Region
 
-![Sales by Region](images/sales_by_region.png)
+![sales_by_region (2)](images/sales_by_region.png)
 
 ### Top 10 Profitable Sub-Categories
 
