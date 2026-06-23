@@ -61,7 +61,19 @@ The dataset contains 9,994 retail transactions across multiple regions, customer
 
 ![Top 10 Profitable Sub-Categories](images/top_10_profitable_sub_categories.png)
 
+Business Recommendations
 
+Increase investment in Technology products due to their strong sales and profitability.
+
+Focus marketing efforts on Copiers, Phones, and Accessories, which are the most profitable sub-categories.
+
+Review pricing and discount strategies for Tables and Bookcases, which generate losses despite high sales.
+
+Investigate the Central region's discounting practices to improve profit margins.
+
+Continue targeting Consumer customers, as they contribute the highest overall profit.
+
+Encourage Standard Class shipping where appropriate to maintain healthy profit margins.
 
 
 
