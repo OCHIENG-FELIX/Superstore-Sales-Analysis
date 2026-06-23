@@ -61,7 +61,7 @@ The dataset contains 9,994 retail transactions across multiple regions, customer
 
 ![Top 10 Profitable Sub-Categories](images/top_10_profitable_sub_categories.png)
 
-Business Recommendations
+### Business Recommendations
 
 Increase investment in Technology products due to their strong sales and profitability.
 
